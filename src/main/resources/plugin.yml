@@ -1,0 +1,10 @@
+name: GameTimeLeaderboard
+version: '${project.version}'
+main: org.spectrum.gametimeleaderboard.GameTimeLeaderboard
+api-version: '1.20'
+author: Tim_Spectrum
+commands:
+  playtime:
+    description: Get a player's game time.
+    usage: /<command> <player>
+
